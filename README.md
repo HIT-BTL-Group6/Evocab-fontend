@@ -1,4 +1,11 @@
 Evocab - ứng dụng học tiếng anh bằng flashcard
+## Tech
+• Architecture: MVVM Clean Architecture && LiveData <br>
+• Dependency Injection: Koin. <br>
+• API layer: Retrofit , Gson và OkHttp. <br>
+• Navigation: Navigation Component && DeepLink <br>
+• Input & Validate : RxBinding. <br>
+• Asynchronous programming: RxKotlin, RxAndroid. 
 ## Login - Signup - ForgotPassword
 ![Login](https://user-images.githubusercontent.com/108991843/262083999-b5afe88d-86cf-4489-95cb-f93e417be427.png)
 ![ForgotPassword](https://user-images.githubusercontent.com/108991843/262085102-599079b2-daaf-497d-b710-9ec3f64185f0.png)
